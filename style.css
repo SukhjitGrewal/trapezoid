@@ -1,0 +1,23 @@
+body {
+  margin: auto;
+  width: 500px;
+}
+body {
+  margin: auto;
+  width: 600px;
+}
+#title {
+  text-align: center;
+}
+#trap-image {
+  margin: auto;
+  width: 500px;
+}
+#trap-image {
+  padding: 0px 50px;
+  width: 500px;
+}
+
+.check {
+  visibility: hidden;
+}
